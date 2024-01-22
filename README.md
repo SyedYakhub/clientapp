@@ -12,3 +12,5 @@ Key Contributions & Technologies Used:
 - Built a client application that communicates with the REST APIs to perform operations on the database.
 - Implemented user authentication and session management.
 - Enabled users to perform CRUD operations on diary entries.
+
+<img width="900" alt="MyDiary Webapp" src="https://github.com/SyedYakhub/clientapp/assets/87276324/054f28e9-b457-49cf-b81d-d5a0ebee3067">
